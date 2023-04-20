@@ -49,6 +49,7 @@ Finally, I should say that I have tried to use multiple ways in the same task to
 1. To improve performance, I just tried to do map, groupBy, etc before join. But there are other ways like using laze evaluation that can be useful.
 2. It is better to read files with encoding. Because bad files can down the system for a couple of minutes.
 3. With spending more time, it's possible to make this program Object-oriented that is more readable, clear, bug tolerant, etc.
+4. Complete config file.
 # How to run 
 1. Change config file variables as you want.
 2. Run the main.scala
